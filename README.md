@@ -1,5 +1,5 @@
 # DStruct
-(BETA, early draft and buggy; not suitable). 
+(BETA, early draft and buggy; may not be suitable for usage as-is). 
 
 Vanilla JavaScript single-page application library based on web components, with basic state and external data handling. 
 
